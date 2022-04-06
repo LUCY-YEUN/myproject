@@ -8,8 +8,7 @@
 </head>
 <body>
 
-처음 작성하는 JSP 문서~!!
-처음 작성하는 JSP 문서~!!	(user1브랜치)
+main.jsp 페이지
 
 </body>
 </html>
